@@ -17,6 +17,7 @@ public class DrawingApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Changing code");
         // TODO code application logic here
         Rectangle r1=new Rectangle(15,100); // Creating a new object
         System.out.println("Length:"+r1.getLength());
